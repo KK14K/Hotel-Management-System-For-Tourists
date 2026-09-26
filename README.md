@@ -11,7 +11,8 @@ combining PHP, MySQL, HTML, CSS, and JavaScript, all in a single monolithic app
 A basic hotel management system covering *( e.g. room bookings, guest
 records, admin login)*. Built as an early practice project to get comfortable
 with a full PHP + MySQL stack end-to-end before working with more structured
-architectures.
+architectures. 
+(My 1st web project . )
 
 ## Tech Stack
 
