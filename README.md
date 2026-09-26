@@ -4,7 +4,7 @@ A beginner full-stack web project for managing hotel operations — my first pro
 combining PHP, MySQL, HTML, CSS, and JavaScript, all in a single monolithic app
 (no framework, no separation into services/modules).
 
-> **Status:**  Completed *
+> **Status:**  Completed 
 
 ## Overview
 
@@ -12,7 +12,7 @@ A basic hotel management system covering *( e.g. room bookings, guest
 records, admin login)*. Built as an early practice project to get comfortable
 with a full PHP + MySQL stack end-to-end before working with more structured
 architectures. 
-(My 1st web project . )
+(My 1st web project )
 
 ## Tech Stack
 
@@ -43,7 +43,7 @@ Standard local PHP + MySQL setup (XAMPP/WAMP/MAMP):
 ## Notes
 
 This was a self-directed first project rather than a course assignment, so it's
-not cleanly separated into modules — most logic lives directly in the PHP pages
+not cleanly separated into modules most logic lives directly in the PHP pages
 alongside HTML/CSS/JS. It's a good honest snapshot of an early full-stack
-attempt; later projects (like the UCSC Student Help Desk System) reflect more
+attempt, later projects (like the UCSC Student Help Desk System) reflect more
 structured practice built on what this one taught.
